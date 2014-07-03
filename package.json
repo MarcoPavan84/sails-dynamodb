@@ -23,7 +23,10 @@
   "author": "Yohzoh Matsui<dohzoh@outlook.com>",
   "license": "MIT",
   "readmeFilename": "README.md",
-  "dependencies": {},
+  "dependencies": {
+  	"vogels": "^0.9.0",
+    	"lodash": "^2.4.1"
+  },
   "devDependencies": {
     "waterline-adapter-tests": "git://github.com/balderdashy/waterline-adapter-tests.git#associations",
     "mocha": "*",
