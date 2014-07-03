@@ -77,6 +77,7 @@ module.exports = (function () {
 	  , secretAccessKey: null
 	  , region: 'us-west-1'
         , credentialsFilePath: './credentials.json'
+        , schema: false
       // For example:
       // port: 3306,
       // host: 'localhost',
